@@ -1,0 +1,12 @@
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\bin\Debug\netcoreapp3.1\DecoratorPattern.exe
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\bin\Debug\netcoreapp3.1\DecoratorPattern.deps.json
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\bin\Debug\netcoreapp3.1\DecoratorPattern.runtimeconfig.json
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\bin\Debug\netcoreapp3.1\DecoratorPattern.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\bin\Debug\netcoreapp3.1\DecoratorPattern.dll
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\bin\Debug\netcoreapp3.1\DecoratorPattern.pdb
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\obj\Debug\netcoreapp3.1\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\obj\Debug\netcoreapp3.1\DecoratorPattern.AssemblyInfo.cs
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\obj\Debug\netcoreapp3.1\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\obj\Debug\netcoreapp3.1\DecoratorPattern.dll
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\obj\Debug\netcoreapp3.1\DecoratorPattern.pdb
+C:\Users\Dev\source\repos\DecoratorPatyern\DecoratorPatyern\obj\Debug\netcoreapp3.1\DecoratorPattern.genruntimeconfig.cache
