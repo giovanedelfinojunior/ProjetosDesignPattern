@@ -1,0 +1,13 @@
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.AssemblyInfo.cs
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\netcoreapp3.1\Abstract Factory Pattern.exe
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\netcoreapp3.1\Abstract Factory Pattern.deps.json
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\netcoreapp3.1\Abstract Factory Pattern.runtimeconfig.json
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\netcoreapp3.1\Abstract Factory Pattern.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\netcoreapp3.1\Abstract Factory Pattern.dll
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\netcoreapp3.1\Abstract Factory Pattern.pdb
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.dll
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.pdb
+C:\Users\Dev\source\repos\ProjetosDesignPattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\netcoreapp3.1\Abstract Factory Pattern.genruntimeconfig.cache
